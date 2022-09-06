@@ -1,0 +1,5 @@
+PROJECT TITLE: RPG
+PURPOSE OF PROJECT: School Work
+VERSION or DATE: 2022/09/06 /// V3
+HOW TO START THIS PROJECT: Run "Program"* not currently working
+AUTHORS: Tim Eschmann
