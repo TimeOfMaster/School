@@ -17,6 +17,8 @@ public class Fahrzeug
         kennzeichen = sKennzeichen;
         auffaelligkeit = bAuffaelligkeit;
         */
+
+        random();
     }
 
     public boolean getVerkehrstauglichkeit() 
