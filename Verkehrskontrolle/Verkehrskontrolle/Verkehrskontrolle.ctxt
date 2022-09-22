@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=Verkehrskontrolle
+comment1.params=pFahrzeug
+comment1.target=Verkehrskontrolle(Fahrzeug)
+comment2.params=
+comment2.target=void\ herauswinken()
+comment2.text=\r\n\ "shift"\ first\ entry\ in\ stra\u00DFe\ to\ seite\r\n
+comment3.params=
+comment3.target=void\ fahrzeugUeberpruefen()
+comment3.text=\r\n\ maengel\ count\r\n
+comment4.params=
+comment4.target=void\ kontrolle()
+comment4.text=\r\n\ kontrolle\ count\r\n\ dequeue\ \r\n
+comment5.params=
+comment5.target=void\ kolonneAufloesen()
+comment5.text=\r\n\ dequeue\ all\r\n
+comment6.params=
+comment6.target=void\ durchlassen()
+comment6.text=\r\n\ dequeue\ a\ single\ entry\ in\ stra\u00DFe\r\n
+numComments=7

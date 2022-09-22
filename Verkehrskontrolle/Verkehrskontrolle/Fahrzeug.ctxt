@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=Fahrzeug
+comment1.params=
+comment1.target=Fahrzeug()
+comment10.params=kennzeichen
+comment10.target=void\ setKennzeichen(java.lang.String)
+comment11.params=auffaelligkeit
+comment11.target=void\ setAuffaelligkeit(boolean)
+comment12.params=
+comment12.target=void\ random()
+comment2.params=
+comment2.target=boolean\ getVerkehrstauglichkeit()
+comment3.params=
+comment3.target=java.lang.String\ getFarbe()
+comment4.params=
+comment4.target=java.lang.String\ getKennzeichen()
+comment5.params=
+comment5.target=java.lang.String\ getModell()
+comment6.params=
+comment6.target=boolean\ getAuffaelligkeit()
+comment7.params=verkehrstauglichkeit
+comment7.target=void\ setVerkehrstauglichkeit(boolean)
+comment8.params=modell
+comment8.target=void\ setModell(java.lang.String)
+comment9.params=farbe
+comment9.target=void\ setFarbe(java.lang.String)
+numComments=13
