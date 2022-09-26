@@ -117,10 +117,14 @@ public class Coinstack
                 this.twoEuroWorth += 200;
                 this.coins.pop();
             }
-
-            this.worth += (this.tenCentsWorth + this.twentyCentsWorth + this.fiftyCentsWorth + this.oneEuroWorth + this.twoEuroWorth + this.twoEuroWorth);
-
         }
+            //this.worth += (this.tenCentsWorth + this.twentyCentsWorth + this.fiftyCentsWorth + this.oneEuroWorth + this.twoEuroWorth + this.twoEuroWorth);
+            this.worth += this.tenCentsWorth;
+            this.worth += this.twentyCentsWorth;
+            this.worth += this.fiftyCentsWorth;
+            this.worth += this.oneEuroWorth;
+            this.worth += this.twoEuroWorth;
+        
             System.out.println("--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------");
             System.out.println("");
             System.out.println("Total Worth:" + this.worth);
