@@ -5,5 +5,6 @@ all they need to know. The comments should usually include at least:
 ------------------------------------------------------------------------
 
 PROJECT TITLE: Münzstapel
+PURPOSE OF PROJECT: School
 VERSION or DATE: 2022.09.26
 AUTHORS: TimeOfMaster
