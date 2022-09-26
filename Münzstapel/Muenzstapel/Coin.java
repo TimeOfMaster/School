@@ -38,6 +38,26 @@ public class Coin
 
         this.worth = worthR[indexWorthR];
 
+        switch(worth)
+        {
+            case 10:
+                coinType = "10 Cent";
+                break;
+            case 20:
+                coinType = "20 Cent";
+                break;
+            case 50:
+                coinType = "50 Cent";
+                break;
+            case 100:
+                coinType = "1€";
+                break; 
+            case 200:
+                coinType = "2€";
+                break; 
+        }
+
+/*      // alternate
         if (worth == 10)
         {
             coinType = "10Cent";
@@ -58,5 +78,6 @@ public class Coin
         {
             coinType = "2€";
         }
+*/
     }
 }
